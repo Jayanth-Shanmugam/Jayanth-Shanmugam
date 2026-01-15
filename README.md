@@ -4,6 +4,9 @@ Welcome to my GitHub! My main interests are in data engineering and data platfor
 
 ## Tech Stack
 **Programming Languages**: Python, SQL, C, Java
+
 **Libraries**: Pandas, NumPy, Matplotlib, Streamlit, scikit-learn, PyTorch, Playwright, LangChain, LangGraph, DSPy
+
 **Databases**: PostgreSQL, MySQL, SQL Server, Google BigQuery, DuckDB, Apache Iceberg
+
 **Data Engineering**: Google Cloud Platform, Cloud Dataflow, Cloud Composer, Cloud Dataproc, Apache Airflow

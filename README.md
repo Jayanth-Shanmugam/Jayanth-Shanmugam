@@ -22,8 +22,6 @@ With expertise in data pipeline orchestration, real-time streaming, and cloud da
 
 Data Engineering, Data Platform Engineering, AI Tooling
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanth-Shanmugam&show_icons=true&theme=radical)
-
 ## Beyond Code
 
 When I'm not working with data, you'll find me exploring fragrances or playing guitar.
